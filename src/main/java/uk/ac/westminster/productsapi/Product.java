@@ -1,4 +1,4 @@
-package com.example.tut_1;
+package uk.ac.westminster.productsapi;
 
 public class Product {
     private Long id;

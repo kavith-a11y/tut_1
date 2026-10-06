@@ -1,6 +1,5 @@
-package com.example.tut_1;
+package uk.ac.westminster.productsapi;
 
-import com.example.tut_1.Product;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

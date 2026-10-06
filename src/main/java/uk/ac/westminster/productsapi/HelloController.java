@@ -1,4 +1,4 @@
-package com.example.tut_1;
+package uk.ac.westminster.productsapi;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 @RestController
